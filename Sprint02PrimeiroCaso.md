@@ -1,4 +1,4 @@
-<h1 align="center">Ponto de Ônibus</h1>
+<h1 align="center">Sistema de Transporte Público</h1>
 
 <p align="center">Esse projeto é uma aplicação específica usando alguns metódos de Engenharia de Software.</p>
 
