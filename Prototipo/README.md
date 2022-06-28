@@ -1,6 +1,6 @@
 <h1 align="center">Protótipos</h1>
 
-<p align="center">Protótipos dos sistemas de cidades inteligentes idealizado nesse repositório</p>
+<p align="center">Parte visual - protótipos - das telas dos sistemas de cidades inteligentes idealizados nos arquivos anteriores desse repositório</p>
 
 ## :rocket: Tecnologias
 
